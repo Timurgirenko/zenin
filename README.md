@@ -4,7 +4,7 @@
 
 * [Гиренко Тимур](https://github.com/Timurgirenko)
 * [Аркатов Кирилл](https://github.com/Kirill-bangkok)
-* [Петухов Андрей]()
+* [Петухов Андрей](https://github.com/AndrewPetuchov)
 
 # Описание приложения 
 
