@@ -13,7 +13,7 @@ Stack Ball — разрушайте все платформы, которые в
 Самое интересное в данной игре это то, что ее внешний вид будет постоянно меняться, и цветовая гамма все время различаться. Вам никогда не надоест в нее играть, и пока вы не одержите победу.
 
 # Сервисы для работы
-* [Miro](https://miro.com/app/board/uXjVPPzYRnE=/?share_link_id=6084268424) 
+* [Miro](https://miro.com/app/board/uXjVMFTnPWE=/) 
 * [Miro client-server](https://miro.com/app/board/uXjVPjUlC1A=/?share_link_id=865339379308) 
 * [Trello](https://trello.com/b/EEooHNxa/alcomanager)
 
