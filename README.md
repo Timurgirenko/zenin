@@ -21,9 +21,9 @@ Stack Ball — разрушайте все платформы, которые в
 * [Видео функционала обычного пользователя](https://www.youtube.com/shorts/v4N-mYauCio)
 
 # Документация
-* [Техническое задание](https://github.com/ThePerceval/CourseProject/blob/master/Documentation/ТЗ.pdf)
-* [Курсовая проект](https://github.com/ThePerceval/CourseProject/blob/master/Documentation/Курсовой%20проект.pdf)
-* [Презентация](https://github.com/ThePerceval/CourseProject/blob/master/Documentation/Presentation.pdf)
+* [Техническое задание](https://github.com/Timurgirenko/zenin/blob/main/Kursovaia%20zenina/Technical%20task.docx)
+* [Курсовая проект](https://github.com/Timurgirenko/zenin/blob/main/Kursovaia%20zenina/Kursovoy_proekt%20(2).docx)
+* [Презентация](https://github.com/Timurgirenko/zenin/blob/main/Kursovaia%20zenina/%D0%B7%D0%B5%D0%BD%D0%B8%D0%BD.pptx)
 * [Метрики](https://metrika.yandex.ru/dashboard?group=day&period=month&id=91248958)
 * [Схема БД](https://github.com/ThePerceval/CourseProject/blob/master/Documentation/DB.png)
 * [Swagger](http://62.33.185.12:8080/swagger-ui/index.html)
