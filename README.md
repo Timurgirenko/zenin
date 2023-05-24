@@ -1,4 +1,7 @@
-# AlcoManager
+# Stack Ball 3D
+
+# Участники
+
 * [Гиренко Тимур](https://github.com/Timurgirenko)
 * [Аркатов Кирилл](https://github.com/Kirill-bangkok)
 * [Петухов Андрей]()
