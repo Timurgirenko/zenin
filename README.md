@@ -14,7 +14,6 @@ Stack Ball — разрушайте все платформы, которые в
 
 # Сервисы для работы
 * [Miro](https://miro.com/app/board/uXjVMFTnPWE=/) 
-* [Miro client-server](https://miro.com/app/board/uXjVPjUlC1A=/?share_link_id=865339379308) 
 * [Trello](https://trello.com/b/EEooHNxa/alcomanager)
 
 # Видеообзор приложения
